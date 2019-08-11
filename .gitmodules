@@ -1,3 +1,6 @@
 [submodule "darknet"]
 	path = darknet
 	url = https://github.com/pjreddie/darknet
+[submodule "pytorch-yolo-v3"]
+	path = pytorch-yolo-v3
+	url = https://github.com/ayooshkathuria/pytorch-yolo-v3.git
